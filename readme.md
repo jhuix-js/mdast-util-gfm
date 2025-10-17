@@ -414,7 +414,7 @@ compatible with Node.js 16.
 
 [api-options]: #options
 
-[author]: https://wooorm.com
+[author]: mailto:jhuix0117@gmail.com
 
 [downloads]: https://www.npmjs.com/package/@jhuix/mdast-util-gfm
 
